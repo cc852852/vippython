@@ -1,0 +1,4 @@
+{'id': '1002', 'name': '李筱思', 'english': '55', 'python': '66', 'java': '77'}
+{'id': '1001', 'name': 'hahaer', 'english': 66, 'python': 16, 'java': 99}
+{'id': '10003', 'name': 'gogo yes', 'english': 66, 'python': 88, 'java': 78}
+{'id': '1004', 'name': 'emoji', 'english': 9, 'python': 99, 'java': 99}

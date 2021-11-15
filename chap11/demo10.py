@@ -1,0 +1,12 @@
+# 咕噜咕噜的丁丁
+# 不浪费一分一秒
+# 你可以的
+# 时间：2021/9/17 7:56
+
+#print(10/0)
+import traceback
+try:
+    print("------------------")
+    print(1/0)
+except:
+    traceback.print_exc()
